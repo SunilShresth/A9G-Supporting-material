@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/akarsh98/A9G-Supporting-material/blob/master/PICS/2.JPG)
 
-Video tutorial : https://youtu.be/GrKtsafA2UU
+//Video tutorial : https://youtu.be/GrKtsafA2UU
 
 In this project we are going to get an insight of A9G GPS,GPRS and GSM module. This module is different from its previous versions such A6 and A9 as it is capable of functioning in GPS mode as well.
 In this project we will discuss about the features and specifications of the A9G module and after that we will test its capabilities of working in GPS mode by getting location data using AT Commands and after that we will connect it to the Internet using its GPRS capabilities.
